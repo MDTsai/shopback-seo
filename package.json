@@ -1,0 +1,26 @@
+{
+  "name": "shopback-seo",
+  "version": "1.0.0",
+  "description": "shopback seo assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDTsai/shopback-seo.git"
+  },
+  "keywords": [
+    "shopback",
+    "seo"
+  ],
+  "author": "Eric Tsai",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MDTsai/shopback-seo/issues"
+  },
+  "homepage": "https://github.com/MDTsai/shopback-seo#readme",
+  "dependencies": {
+    "dom-parser": "^0.1.5"
+  }
+}

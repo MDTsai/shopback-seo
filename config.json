@@ -1,0 +1,24 @@
+{
+    "input": {
+        "fs": "test.html"
+    },
+    "output": {
+        "console": "true",
+        "fs": "output.txt"
+    },
+    "rules": {
+        "checkImg": {
+        },
+        "checkAnchor": {
+        },
+        "checkHead": {
+            "description": 0,
+            "keywords": 0
+        },
+        "checkStrong": {
+            "maxCount": 15
+        },
+        "checkH1": {
+        }
+    }
+}
